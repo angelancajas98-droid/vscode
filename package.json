@@ -100,7 +100,7 @@
     "reauth-feed": "artifacts-npm-credprovider --force"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.82.0",
+    "@anthropic-ai/sdk": "^0.133.0",
     "@devcontainers/cli": "0.88.0",
     "@github/copilot-sdk": "1.0.20-preview.2",
     "@hpke/core": "^1.9.0",
@@ -149,7 +149,7 @@
     "http-proxy-agent": "^7.0.0",
     "https-proxy-agent": "^7.0.2",
     "jschardet": "3.1.4",
-    "katex": "^0.16.22",
+    "katex": "^0.18.2",
     "kerberos": "2.1.1",
     "libsodium-wrappers": "^0.8.4",
     "minimist": "^1.2.8",
